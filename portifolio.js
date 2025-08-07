@@ -1,0 +1,1 @@
+document.body.style.background = "linear-gradiente(to right,rgb(255, 136, 0),rgb(255, 0, 0))";

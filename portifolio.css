@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.imagemp {
+  border-radius: 50px;  
+  width: 75px;
+  border: solid black;
+}
+.coisa1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50vh;
+}
+
+.lista1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.lista2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 75px;
+}
+
